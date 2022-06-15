@@ -50,7 +50,7 @@ a:hover {
 
 .dropdown > span {
     z-index: 2;
-    position: relative;  /* This is important! */
+    position: relative;  
     cursor: pointer;
 }
 
@@ -66,7 +66,7 @@ a:hover {
     z-index: 1;
 }
 
-.features-menu {                    /* Add this as a new rule */
+.features-menu {                   
     display: none;
 }
   
